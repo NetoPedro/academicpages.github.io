@@ -21,11 +21,11 @@ In order to improve my knowledge in the field and to build a stronger set of ski
 
 Goals
 ------
-* Dive deeper on state of the art literature 
-* Reimplement models described on the literature
-* Improve my research skills set 
-* Publish my first paper 
-* Apply to PhD
+* Dive deeper on state of the art literature.
+* Reimplement models described in the literature.
+* Improve my research skills set.
+* Publish my first paper.
+* Apply to PhD.
 
 Project Ideas
 ------
