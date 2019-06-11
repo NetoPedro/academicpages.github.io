@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Summer 2017: Summer Inter
+* Summer 2017: Summer Intern
   * Armis Group 
   * Duties included: Backend with .Net core and iOS mobile application with Swift 4.
 
