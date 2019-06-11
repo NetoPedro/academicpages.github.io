@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. with honors in Informatics Engineering, ISEP, 2018. GPA: 17 out of 20.
+* M.S. in Computer Science - Big Data track, Aalto University, 2020 (expected). Current GPA: 4.48 out of 5.
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Summer Inter
+  * Armis Group 
+  * Duties included: Backend with .Net core and iOS mobile application with Swift 4.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2018: Co-Founder and developer
+  * Uniquiz
+  * Duties included: Developed most of the backend microservices of a social network directed to portuguese students.
+  * Supervisor: Carlos Ferreira (cgf@isep.ipp.pt)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+* Deep Learning 
+  * Pytorch 
+  * Python
+* Reinforcement Learning 
+
 
 Publications
 ======
@@ -48,12 +47,3 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
