@@ -34,12 +34,6 @@ Skills
   * Python
 * Reinforcement Learning 
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
@@ -47,3 +41,8 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+Portfolio
+======
+  <ul>{% for post in site.portfolio %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
