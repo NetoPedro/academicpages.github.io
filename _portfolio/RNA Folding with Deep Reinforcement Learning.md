@@ -1,6 +1,6 @@
 ---
 title: "RNA Folding with Deep Reinforcement Learning"
-excerpt: "Short description of portfolio item number 1<br/><img src='https://netopedro.github.io/RNAFoldingDeepRL/'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='https://raw.githubusercontent.com/NetoPedro/RNAFoldingDeepRL/master/RNAStructure.png'>"
 collection: portfolio
 ---
 
