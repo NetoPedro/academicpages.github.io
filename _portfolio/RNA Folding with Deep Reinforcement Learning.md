@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "RNA Folding with Deep Reinforcement Learning"
+excerpt: "Short description of portfolio item number 1<br/><img src='https://netopedro.github.io/RNAFoldingDeepRL/'>"
 collection: portfolio
 ---
 
