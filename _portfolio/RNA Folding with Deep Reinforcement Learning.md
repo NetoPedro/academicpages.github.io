@@ -2,6 +2,7 @@
 title: "RNA Folding with Deep Reinforcement Learning"
 excerpt: "Short description of portfolio item number 1<br/>"
 collection: portfolio.rl
+topic: "Reinforcement Learning"
 ---
 
 [Project Website](https://netopedro.github.io/RNAFoldingDeepRL/)
