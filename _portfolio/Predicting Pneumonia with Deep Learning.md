@@ -1,7 +1,7 @@
 ---
-title: "2019.3 Predicting Pneumonia with Deep Learning"
+title: "Predicting Pneumonia with Deep Learning"
 excerpt: "Short description of portfolio item number 3 <br/>"
-collection: portfolio
+collection: portfolio.dl
 ---
 
 [Project Github](https://github.com/NetoPedro/DeepLearningProject)
