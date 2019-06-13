@@ -1,7 +1,7 @@
 ---
-title: "2019.1 RNA Folding with Deep Reinforcement Learning"
+title: "RNA Folding with Deep Reinforcement Learning"
 excerpt: "Short description of portfolio item number 1<br/>"
-collection: portfolio
+collection: portfolio.rl
 ---
 
 [Project Website](https://netopedro.github.io/RNAFoldingDeepRL/)
