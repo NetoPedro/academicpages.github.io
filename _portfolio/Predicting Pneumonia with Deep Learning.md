@@ -1,6 +1,7 @@
 ---
 title: "Predicting Pneumonia with Deep Learning"
 excerpt: "Short description of portfolio item number 3 <br/>"
+topic: "Deep Learning"
 collection: portfolio.dl
 ---
 
