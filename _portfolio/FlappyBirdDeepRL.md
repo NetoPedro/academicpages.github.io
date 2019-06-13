@@ -1,5 +1,5 @@
 ---
-title: "Playing Flappy Bird with Deep Reinforcement Learing"
+title: "2019.1 - Playing Flappy Bird with Deep Reinforcement Learing"
 excerpt: "Short description of portfolio item number 2 <br/>"
 collection: portfolio
 ---
