@@ -1,7 +1,7 @@
 ---
 title: "2019.2 - Playing Flappy Bird with Deep Reinforcement Learing"
 excerpt: "Short description of portfolio item number 2 <br/>"
-collection: portfolio
+collection: portfolio.rl
 ---
 
 [Project Website](https://netopedro.github.io/DeepReinforcementLearningFlappyBird)
