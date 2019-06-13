@@ -1,7 +1,7 @@
 ---
 title: "Universal Adversarial Perturbations"
 excerpt: "Short description of portfolio item number 4 <br/>"
-collection: portfolio
+collection: portfolio.paperreproduction
 ---
 
 [Project Github](https://github.com/NetoPedro/Universal-Adversarial-Perturbations-Pytorch)
