@@ -1,5 +1,5 @@
 ---
-title: "Playing Flappy Bird with Deep Reinforcement Learing"
+title: "Playing Flappy Bird with Deep Reinforcement Learing (Incomplete)"
 topic: "Reinforcement Learning"
 excerpt: "Short description of portfolio item number 2 <br/>"
 collection: portfolio.rl
