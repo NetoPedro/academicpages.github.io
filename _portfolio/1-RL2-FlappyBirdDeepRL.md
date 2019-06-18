@@ -1,7 +1,7 @@
 ---
 title: "Playing Flappy Bird with Deep Reinforcement Learing (Incomplete)"
 topic: "Reinforcement Learning"
-excerpt: "Short description of portfolio item number 2 <br/>"
+excerpt: "An implementation with Pytorch of an agent to learn how to play the Flappy Bird game. <br/>"
 collection: portfolio.rl
 ---
 
@@ -9,4 +9,3 @@ collection: portfolio.rl
 
 [Project GitHub](https://github.com/NetoPedro/DeepReinforcementLearningFlappyBird)
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
