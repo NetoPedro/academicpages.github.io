@@ -1,6 +1,6 @@
 ---
 title: "RNA Folding with Deep Reinforcement Learning"
-excerpt: "Short description of portfolio item number 1<br/>"
+excerpt: "This project aims to tackle a simplified version of the RNA folding (secondary structure) problem using deep reinforcement learning.<br/>"
 collection: portfolio.rl
 topic: "Reinforcement Learning"
 ---
