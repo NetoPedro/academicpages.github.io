@@ -1,6 +1,6 @@
 ---
 title: "Universal Adversarial Perturbations"
-excerpt: "Implementation of Universal Adversarial perturbations with pytorch  4 <br/>"
+excerpt: "Implementation of Universal Adversarial perturbations with Pytorch. <br/>"
 topic: "Paper Reproduction"
 collection: portfolio
 ---
