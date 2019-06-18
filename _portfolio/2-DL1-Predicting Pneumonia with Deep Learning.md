@@ -1,6 +1,6 @@
 ---
 title: "Predicting Pneumonia with Deep Learning"
-excerpt: "Short description of portfolio item number 3 <br/>"
+excerpt: "Using Deep Learning to Segment pneumonia opacities on X-Ray images <br/>"
 topic: "Deep Learning"
 collection: portfolio.dl
 ---
