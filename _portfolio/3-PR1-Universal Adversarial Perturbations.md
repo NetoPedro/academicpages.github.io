@@ -1,6 +1,6 @@
 ---
 title: "Universal Adversarial Perturbations"
-excerpt: "Short description of portfolio item number 4 <br/>"
+excerpt: "Implementation of Universal Adversarial perturbations with pytorch  4 <br/>"
 topic: "Paper Reproduction"
 collection: portfolio
 ---
@@ -9,4 +9,4 @@ collection: portfolio
 
 [Project Github](https://github.com/NetoPedro/Universal-Adversarial-Perturbations-Pytorch)
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Implementation of (https://arxiv.org/abs/1610.08401) for the CS-E4070 - Special Course in Machine Learning and Data Science: Advanced Topics in Deep Learning course at Aalto University, Finland.
