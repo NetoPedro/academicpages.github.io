@@ -1,5 +1,5 @@
 ---
-title: 'Future Blog Post'
+title: 'Initial Post'
 date: 2019-06-19
 permalink: /posts/2019/06/19/
 tags:
