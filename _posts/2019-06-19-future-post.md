@@ -15,4 +15,5 @@ This particular blog section is where I will be discussing some project ideas, p
 Hope you enjoy and please let me know if you think that I must, or I can improve anything. 
 
 Best wishes,
+
 Pedro Neto. 
