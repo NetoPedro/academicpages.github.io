@@ -21,7 +21,7 @@ Pedro Neto.
 
 Website walkthrough: 
 
-- [Who am I ?](https://netopedro.github.io/)
-- [Previous talks/workshops](https://netopedro.github.io/talks/)
-- [Previous personal or course projects](https://netopedro.github.io/portfolio/)
-- [Education and CV](https://netopedro.github.io/cv/)
+- [Who am I?](https://netopedro.github.io/)
+- [Where did I present before?](https://netopedro.github.io/talks/)
+- [What have I done?](https://netopedro.github.io/portfolio/)
+- [Where did I get my education?](https://netopedro.github.io/cv/)
