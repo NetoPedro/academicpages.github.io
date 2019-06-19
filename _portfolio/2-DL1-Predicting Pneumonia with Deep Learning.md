@@ -7,4 +7,6 @@ collection: portfolio.dl
 
 [Project Github](https://github.com/NetoPedro/DeepLearningProject)
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Final project for the CS-E4890 - Deep Learning course at Aalto University, Finland. 
+
+In this project, I have implemented a variation of the popular U-Net to segment and spot opacities that may indicate pneumonia on X-Ray images. Some experiments with different upsample techniques were particularly interesting. 
