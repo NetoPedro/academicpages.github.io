@@ -17,3 +17,11 @@ Hope you enjoy and please let me know if you think that I must, or I can improve
 Best wishes,
 
 Pedro Neto. 
+
+
+Website walkthrough: 
+
+- [Who am I ?](https://netopedro.github.io/)
+- [Previous talks/workshops](https://netopedro.github.io/talks/)
+- [Previous personal or course projects](https://netopedro.github.io/portfolio/)
+- [Education and CV](https://netopedro.github.io/cv/)
