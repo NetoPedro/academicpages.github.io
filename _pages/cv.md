@@ -23,7 +23,7 @@ Work experience
 
 * Spring 2018: Co-Founder and developer
   * Uniquiz
-  * Duties included: Developed most of the backend microservices of a social network directed to portuguese students. Go was used as main language.
+  * Duties included: Developing most of the backend microservices of a social network directed to portuguese students with Go as main language.
   * Supervisor: Carlos Ferreira (cgf@isep.ipp.pt)
   
 Skills
