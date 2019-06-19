@@ -9,3 +9,4 @@ collection: portfolio.rl
 
 [Project GitHub](https://github.com/NetoPedro/DeepReinforcementLearningFlappyBird)
 
+This project was my very first contact with reinforcement learning. Here, I have implemented the Deep Q-Learning algorithm to train an agent on how to play the flappy bird game from raw pixels. The project was inspired on a previous implementation on the exact same problem, but using tensorflow. 
