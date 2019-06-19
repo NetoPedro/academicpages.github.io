@@ -9,4 +9,5 @@ topic: "Reinforcement Learning"
 
 [Project Github](https://github.com/NetoPedro/RNAFoldingDeepRL)
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+The secondary structure of RNA plays an important role in several aspects in a myriad of biological systems and processes. In this project I have attepmted to implement and reiforcement learning agent to learn how to fold RNA sequences in optimal secundary structures, considering the number of free pairs as the measure of optimality. 
