@@ -1,6 +1,6 @@
 ---
 title: "Popular Deep Nets Architectures (Work in progress)"
-excerpt: "Implementation of popular Deep Net Architectures described on papers. Pytorch as main tool. <br/>"
+excerpt: "Implementation of Deep Net Architectures described on popular papers. Pytorch as main tool. <br/>"
 topic: "Paper Reproduction"
 collection: portfolio
 ---
