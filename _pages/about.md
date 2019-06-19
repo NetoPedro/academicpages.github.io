@@ -12,7 +12,7 @@ My name is Pedro Neto, I am a master degree student at Aalto University, Finland
 
 Interests 
 ======
-I am interested in applications of Machine Learning in several use cases. Nevertheless,  I have a special enthusiasm while working on healthcare application. On the [Portfolio](https://netopedro.github.io/portfolio/) section it is possible to see some ideas I've implemented either as personal project or some course final project. 
+I am interested in applications of Machine Learning in several use cases. Nevertheless,  I have a special enthusiasm while working on healthcare application. In the [Portfolio](https://netopedro.github.io/portfolio/) section it is possible to see some ideas I've implemented either as personal project or some course final project. 
 
 
 Future
