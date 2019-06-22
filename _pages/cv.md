@@ -34,6 +34,12 @@ Work experience
   * Duties included: Developing most of the backend microservices of a social network directed to portuguese students with Go as main language.
   * Supervisor: Carlos Ferreira (cgf@isep.ipp.pt)
   
+* Summer 2019: Summer Intern
+  * INESC TEC - CTM 
+  * Duties included: A Real-Time Face Biometric Recognition System. 
+  * Supervisor: João Ribeiro Pinto (joao.t.pinto@inesctec.pt), Ana Rebelo
+  
+  
 Skills
 ======
 * Machine Learning
