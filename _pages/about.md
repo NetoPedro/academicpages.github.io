@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Pedro Neto, I am a master degree student at Aalto University, Finland. I'm specializing in Computer Science with a keen interest in Deep Learning and Deep Reinforcement Learning. I have an honors bachelor degree in Informatics Engineering at ISEP,  Portugal. 
+My name is Pedro Neto, I am a master degree student at [Aalto University](https://www.aalto.fi/en), Finland. I'm specializing in Computer Science with a keen interest in Deep Learning and Deep Reinforcement Learning. I have an honors bachelor degree in Informatics Engineering at [ISEP](http://isep.ipp.pt/),  Portugal. 
 
 Interests 
 ======
-I am interested in applications of Machine Learning in several use cases. Nevertheless,  I have a special enthusiasm regarding healthcare application. In the [Portfolio](https://netopedro.github.io/portfolio/) section it is possible to see some ideas I've implemented either as personal project or some course final project. As for my PhD I am really interested in some research groups working with medical images and biomedical data, one in particular at Imperial College of London looked amazing. [Research Group Page](https://biomedia.doc.ic.ac.uk/) 
+I am interested in applications of Machine Learning in several use cases. Nevertheless,  I have a special enthusiasm regarding healthcare application. In the [Portfolio](https://netopedro.github.io/portfolio/) section it is possible to see some ideas I've implemented either as personal project or some course final project. As for my PhD I am really interested in some research groups working with medical images and biomedical data, one in particular at [Imperial College of London](https://www.imperial.ac.uk/) looked amazing. [Research Group Page](https://biomedia.doc.ic.ac.uk/) 
 
 
 Future
