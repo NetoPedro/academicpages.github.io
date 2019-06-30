@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. with honors in Informatics Engineering, ISEP, 2018. GPA: 17 out of 20.
-* M.S. in Computer Science - Big Data track, Aalto University, 2020 (expected). Current GPA: 4.48 out of 5.
+* B.S. with honors in Informatics Engineering, [ISEP](http://isep.ipp.pt/), 2018. GPA: 17 out of 20.
+* M.S. in Computer Science - Big Data track, [Aalto University](https://www.aalto.fi/en), 2020 (expected). Current GPA: 4.48 out of 5.
 
 Relevant Courses:
   * CS-E3210 	Machine Learning: Basic Principles - Grade: 5/5
@@ -26,7 +26,7 @@ Relevant Courses:
 Work experience
 ======
 * Summer 2017: Summer Intern
-  * Armis Group 
+  * [Armis Group](http://www.armis.pt/)
   * Duties included: Backend with .Net core and iOS mobile application with Swift 4.
 
 * Spring 2018: Co-Founder and developer
@@ -35,7 +35,7 @@ Work experience
   * Supervisor: Carlos Ferreira (cgf@isep.ipp.pt)
   
 * Summer 2019: Summer Intern
-  * INESC TEC - CTM 
+  * [INESC TEC](https://www.inesctec.pt/en) - CTM 
   * Duties included: A Real-Time Face Biometric Recognition System. 
   * Supervisor: João Ribeiro Pinto (joao.t.pinto@inesctec.pt), Ana Rebelo
   
