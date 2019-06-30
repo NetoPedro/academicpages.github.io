@@ -36,7 +36,7 @@ Work experience
   
 * Summer 2019: Summer Intern
   * [INESC TEC](https://www.inesctec.pt/en) - CTM 
-  * Duties included: A Real-Time Face Biometric Recognition System. 
+  * Duties included: A Real-Time Face Biometric Recognition System using Deep Learning . 
   * Supervisor: João Ribeiro Pinto (joao.t.pinto@inesctec.pt), Ana Rebelo
   
   
