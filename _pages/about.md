@@ -12,7 +12,7 @@ My name is Pedro Neto, I am a master degree student at Aalto University, Finland
 
 Interests 
 ======
-I am interested in applications of Machine Learning in several use cases. Nevertheless,  I have a special enthusiasm while working on healthcare application. In the [Portfolio](https://netopedro.github.io/portfolio/) section it is possible to see some ideas I've implemented either as personal project or some course final project. 
+I am interested in applications of Machine Learning in several use cases. Nevertheless,  I have a special enthusiasm regarding healthcare application. In the [Portfolio](https://netopedro.github.io/portfolio/) section it is possible to see some ideas I've implemented either as personal project or some course final project. As for my PhD I am really interested in some research groups working with medical images and biomedical data, one in particular at Imperial College of London looked amazing. [Research Group Page](https://biomedia.doc.ic.ac.uk/) 
 
 
 Future
@@ -33,3 +33,4 @@ Project Ideas
 * Use gans to generate "infinite" virtual environment for games. 
 * Use CNNs and Reinforcement Learning to build a drone to spot trash on the beach and estabilish an efficient route to recoil it. 
 * Use CNNs to estimate the winner of a boxing match. 
+* Further study applications of machine learning to personalized medicine. 
