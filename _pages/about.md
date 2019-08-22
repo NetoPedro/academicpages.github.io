@@ -29,6 +29,7 @@ Goals
 
 Project Ideas
 ------
+* Implementation of popular gan architectures. 
 * Use pose estimation to teach an agent how to box. 
 * Use gans to generate "infinite" virtual environment for games. 
 * Use CNNs and Reinforcement Learning to build a drone to spot trash on the beach and estabilish an efficient route to recoil it. 
