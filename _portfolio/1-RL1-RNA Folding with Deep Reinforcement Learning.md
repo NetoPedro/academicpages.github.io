@@ -11,4 +11,35 @@ topic: "Reinforcement Learning"
 
 Implementation of a RL agent to fold RNA sequences for the CS-E4880 - Machine Learning in Bioinformatics course at Aalto University, Finland.
 
-The secondary structure of RNA plays an important role in several aspects in a myriad of biological systems and processes. In this project I have attepmted to implement and reinforcement learning agent to learn how to fold RNA sequences in optimal secundary structures, considering the number of free pairs as the measure of optimality. 
+## Overview
+
+This project aims to tackle a simplified version of the RNA folding (secondary structure) problem using reinforcement learning. To achieve the mentionated goal it will be necessary to build the entire environment from scratch, including rewards, states and other necessary utilities.  
+
+* RNA
+* Environment 
+* Policy
+
+All those components are further explained below. 
+
+## Components
+
+### RNA 
+
+The RNA component has the main intention to model the behaviour of a RNA sequence and respective structure. This model is created in a simplified way.
+ 
+#### Sequence
+
+  The sequence is a string of the characters "A", "C", "U", "G" that represent the bases present on the RNA. 
+  
+  ![Sequence Example](https://raw.githubusercontent.com/NetoPedro/RNAFoldingDeepRL/master/RNASequence.png)
+
+#### Structure Representation 
+  
+  The structure representation is not unique, in a way that the secondary structure of a RNA sequence can be represented by a myriad of ways. Some representations are better to detect pseudoknots, others are better to feed to a policy. 
+  
+  ![Structure Example](https://raw.githubusercontent.com/NetoPedro/RNAFoldingDeepRL/master/RNAStructure.png)
+   
+   Above it is possible to see a common representation of the secondary structure of a RNA sequence. Below it is possible to see a ar diagram representation of other sequence.
+   
+   ![Structure Example](https://raw.githubusercontent.com/NetoPedro/RNAFoldingDeepRL/master/arc_diagram.png)
+  
