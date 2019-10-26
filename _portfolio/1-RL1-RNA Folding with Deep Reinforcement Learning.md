@@ -46,4 +46,11 @@ The RNA component has the main intention to model the behaviour of a RNA sequenc
    Above it is possible to see a common representation of the secondary structure of a RNA sequence. Below it is possible to see a ar diagram representation of other sequence.
    
    ![Structure Example](https://raw.githubusercontent.com/NetoPedro/RNAFoldingDeepRL/master/arc_diagram.png)
+   
+### Results and Comparison 
+
+A prediction is considered correct if its reward matches the upperbound. Nevertheless there are maximal foldings that are lower than the upperbound. Because of this detail the following results must be considered as approximations with some error margin. 
+
+
+![Stats](https://raw.githubusercontent.com/NetoPedro/RNAFoldingDeepRL/master/stats_mc_td_reinforce_complete.png)
   
