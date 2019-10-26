@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "Research Interests"
+permalink: /researchinterests/
+author_profile: true
+---
+
+
+{% include base_path %}
+{% capture written_topic %}'None'{% endcapture %}
+
+{% for post in site.researchinterests %}
+  {% capture topic %}{{ post.topic}}{% endcapture %}
+  {% if topic != written_topic %}
+    <h2 id="{{ topic | slugify }}" class="archive__subtitle">{{ topic }}</h2>
+    {% capture written_topic %}{{ topic }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
