@@ -9,7 +9,7 @@ collection: portfolio
 Uniquiz is a social network that has as main goal the approximation between students and professors and the improvement of student grades. The idea is to be a fully featured study platform in which the students will be able to rely on. 
 
 
-[Uq1](https://raw.githubusercontent.com/NetoPedro/netopedro.github.io/master/images/uq1.jpg)
+(https://raw.githubusercontent.com/NetoPedro/netopedro.github.io/master/images/uq1.jpg)
 [Uq2](https://raw.githubusercontent.com/NetoPedro/netopedro.github.io/master/images/uq2.jpg)
 [Uq3](https://raw.githubusercontent.com/NetoPedro/netopedro.github.io/master/images/uq3.jpg)
 
