@@ -9,4 +9,22 @@ collection: portfolio.rl
 
 [Project GitHub](https://github.com/NetoPedro/DeepReinforcementLearningFlappyBird)
 
-This project was my very first contact with reinforcement learning. Here, I have implemented the Deep Q-Learning algorithm to train an agent on how to play the flappy bird game from raw pixels. The project was inspired by a previous implementation on the exact same problem but using tensorflow.
+## Overview
+This project is heavly inspired by the one developed by [1].
+Although, there are some significative changes: 
+
+1. Pytorch was used instead of Tensorflow 
+2. The preprocessing was modified in order to decrease even further the convergence time and test how small can the input be and still be enough to the network. 
+3. The network architecture is slightly different, only 3 inputs channels are used, and smaller kernel filters are used for each convolution. 
+4. It is intended to have further experiences relating convergence times and graphical elements. 
+
+
+
+## Environment
+
+The environment used was developed originally in [1].
+It uses a regular flappy bird game without background and with the following rewards: 
+
+1. Crash = -1
+2. Did not crash = 0.1
+3. +1 for each pipe 
