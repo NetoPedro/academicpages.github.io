@@ -11,6 +11,10 @@ topic: "Reinforcement Learning"
 
 Implementation of a RL agent to fold RNA sequences for the CS-E4880 - Machine Learning in Bioinformatics course at Aalto University, Finland.
 
+  ![Sakurambo [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)]](https://upload.wikimedia.org/wikipedia/commons/3/3f/Stem-loop.svg)
+
+Sakurambo [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)]
+
 ## Overview
 
 This project aims to tackle a simplified version of the RNA folding (secondary structure) problem using reinforcement learning. To achieve the mentionated goal it will be necessary to build the entire environment from scratch, including rewards, states and other necessary utilities.  
