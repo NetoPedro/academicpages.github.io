@@ -187,7 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  researchinterests:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -242,6 +244,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _researchinterests
+  - scope:
+      path: ""
+      type: researchinterests
+    values:
+      layout: single
       author_profile: true
       share: true
 
