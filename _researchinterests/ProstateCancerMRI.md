@@ -11,6 +11,10 @@ Prostate cancer is one of the most letal cancers in the world. Hence it is essen
 
 ## Which MR images do we care about? 
 
+### T2W
+
+### ADC
+
 ## Radiotherapist Ground Truth vs Histopathology Ground Truth
 
 ## Image Registration 
