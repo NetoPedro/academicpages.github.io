@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. with honors in Informatics Engineering, [ISEP](http://isep.ipp.pt/), 2018. GPA: 17 out of 20.
-* M.S. in Computer Science - Big Data track, [Aalto University](https://www.aalto.fi/en), 2020 (expected). Current GPA: 4.44 out of 5.
+* M.S. in Computer Science - Big Data track, [Aalto University](https://www.aalto.fi/en), 2020 (expected). Current GPA: 4.26 out of 5.
 
 Relevant Courses:
   * CS-E3210 	Machine Learning: Basic Principles - Grade: 5/5
