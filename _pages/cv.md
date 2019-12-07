@@ -19,6 +19,7 @@ Relevant Courses:
   * CS-E4800 	Artificial Intelligence - Grade: 5/5
   * CS-E4890 	Deep Learning - Grade: 5/5
   * CS-E4580 	Programming Parallel Computers - Grade: 5/5
+  * ELEC-E8125 - Reinforcement learning - Grade: ?/5 (Expected 5/5).
   * CS-E4880 	Machine Learning in Bioinformatics - Grade: 4/5
   * CS-E4070 	Special Course in Machine Learning and Data Science: Advanced Topics in Deep Learning - Grade: Pass (Pass or fail course)
 
