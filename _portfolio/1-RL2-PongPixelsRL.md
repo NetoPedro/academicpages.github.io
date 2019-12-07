@@ -1,7 +1,7 @@
 ---
 title: "Playing Pong from Pixels with Deep Q Learning"
 topic: "Reinforcement Learning"
-excerpt: "An implementation with Pytorch of an agent to learn how to play the Flappy Bird game. <br/>"
+excerpt: "Using Q-Learning to teach an agent how to play Pong from the pixels <br/>"
 collection: portfolio.rl
 ---
 
