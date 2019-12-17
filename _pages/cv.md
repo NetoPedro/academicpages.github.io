@@ -53,6 +53,7 @@ Skills
 * Machine Learning
 * Deep Learning 
   * Pytorch 
+  * Keras
   * Python
 * Reinforcement Learning 
 
