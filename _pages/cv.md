@@ -28,17 +28,17 @@ Work experience
 
 * September 2019 - ? : Research Assistant
   * [Aalto University](https://www.aalto.fi/fi)
-  * Duties included: Research deep learning methods for prostate cancer detection and lession segmentation/classification. This will also be used as my master thesis. 
+  * Duties included: Research deep learning methods for prostate cancer detection and lession segmentation/classification. Using MR images and Pytorch. This will also be used as my master thesis. 
   * Supervisor: Juho Kannala (kannala.juho@aalto.fi)
 
 * Summer 2019: Summer Intern
   * [INESC TEC](https://www.inesctec.pt/en) - CTM 
-  * Duties included: Deep Learning for Face Recognition. 
+  * Duties included: Deep Learning for Face Recognition based on VGGFace. Development with Keras. 
   * Supervisor: João Ribeiro Pinto (joao.t.pinto@inesctec.pt), Ana Rebelo
 
 * Spring 2018: Co-Founder and developer
   * Uniquiz
-  * Duties included: Developing most of the backend microservices of a social network directed to portuguese students with Go as main language.
+  * Duties included: Developed and deployed most of the backend microservices of a social network directed to portuguese students with Go as main language.
   * Supervisor: Carlos Ferreira (cgf@isep.ipp.pt)
 
 * Summer 2017: Summer Intern
