@@ -16,7 +16,7 @@ I am interested in applications of Machine Learning in several use cases. In the
 
 Future
 ======
-In order to improve my knowledge in the field and to build a stronger set of skill on hands-on projects, I've established some goals, and some personal projects I would like to work on in the near future. 
+In order to improve my knowledge in the field and to build a stronger set of skill on hands-on projects, I have defined some goals, and some personal projects I would like to work on in the near future. 
 
 Goals
 ------
