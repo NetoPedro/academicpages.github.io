@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. with honors in Informatics Engineering, [ISEP](http://isep.ipp.pt/), 2018. GPA: 17 out of 20.
-* M.S. in Computer Science - Big Data track, [Aalto University](https://www.aalto.fi/en), 2020 (expected). Current GPA: 4.26 out of 5.
+* B.S. with honors in Informatics Engineering, [ISEP](http://isep.ipp.pt/), 2018. Grade: 17 out of 20.
+* M.S. in Computer Science - Big Data track, [Aalto University](https://www.aalto.fi/en), 2020. Grade: 4.24 out of 5.
 
 Relevant Courses:
   * CS-E3210 	Machine Learning: Basic Principles - Grade: 5/5
@@ -22,16 +22,16 @@ Relevant Courses:
   * ELEC-E8125 - Reinforcement learning - Grade: 5/5 
   * CS-E4880 	Machine Learning in Bioinformatics - Grade: 4/5
   * CS-E4070 	Special Course in Machine Learning and Data Science: Advanced Topics in Deep Learning - Grade: Pass (Pass or fail course)
-
+  * CS-E4870  Research Project in Machine Learning and Data Science - Grade 5/5
 Work experience
 ======
 
-* September 2019 - ? : Research Assistant
+* September 2019 - April 2020 : Machine Learning Research Assistant
   * [Aalto University](https://www.aalto.fi/fi)
   * Duties included: Research deep learning methods for prostate cancer detection and lession segmentation/classification. Using MR images and Pytorch. This will also be used as my master thesis. 
   * Supervisor: Juho Kannala (kannala.juho@aalto.fi)
 
-* Summer 2019: Summer Intern
+* Summer 2019: Machine Learning Research Summer Intern
   * [INESC TEC](https://www.inesctec.pt/en) - CTM 
   * Duties included: Deep Learning for Face Recognition based on VGGFace. Development with Keras. 
   * Supervisor: João Ribeiro Pinto (joao.t.pinto@inesctec.pt), Ana Rebelo
@@ -55,7 +55,6 @@ Skills
   * Pytorch 
   * Keras
   * Python
-* Reinforcement Learning 
 
   
 Talks
